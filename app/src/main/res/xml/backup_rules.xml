@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude Firebase local storage from backup -->
+    <exclude domain="sharedpref" path="firebase_app_instance_id.xml"/>
+    <exclude domain="sharedpref" path="firebase_local_storage.xml"/>
+</full-backup-content>
+
