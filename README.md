@@ -160,6 +160,3 @@ For licensing inquiries, please contact the copyright holder.
 Includes Firebase-powered authentication, photo upload feature with metadata storage, and clean Material UI.
 
 ---
-
-**📲 Download Now:** [Get the APK](https://github.com/om-kumar-singh/PhotoJournal-App/releases/download/v0.0.1/app-debug.apk)  
-**🔗 All Releases:** [View Releases](https://github.com/om-kumar-singh/PhotoJournal-App/releases)
