@@ -2,6 +2,14 @@
 
 A modern and minimal Photo Library app built with Java and XML for Android, featuring Firebase integration for authentication, storage, and database.
 
+## 📱 Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/om-kumar-singh/PhotoJournal-App/releases/download/v0.0.1/app-debug.apk)
+
+**Direct APK Download:** [app-debug.apk](https://github.com/om-kumar-singh/PhotoJournal-App/releases/download/v0.0.1/app-debug.apk)
+
+**View All Releases:** [Releases Page](https://github.com/om-kumar-singh/PhotoJournal-App/releases)
+
 ## Features
 
 - **User Authentication**: Sign up and log in with email and password
@@ -135,31 +143,23 @@ dependencies {
 - **Prince Singh**  
   GitHub: [https://github.com/Ps5510038](https://github.com/Ps5510038)
 
-## License
+License
+All Rights Reserved
 
-MIT License
+Copyright (c) 2025 Om Kumar Singh (https://github.com/om-kumar-singh)
 
-Copyright (c) 2025 [https://github.com/om-kumar-singh](https://github.com/om-kumar-singh)
+This software and associated documentation files (the "Software") are the proprietary property of Om Kumar Singh. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software without explicit written permission from the copyright holder.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For licensing inquiries, please contact the copyright holder.
 
 ## Release Description
 
 **PhotoJournal App – Initial Release v1.0**  
 Includes Firebase-powered authentication, photo upload feature with metadata storage, and clean Material UI.
+
+---
+
+**📲 Download Now:** [Get the APK](https://github.com/om-kumar-singh/PhotoJournal-App/releases/download/v0.0.1/app-debug.apk)  
+**🔗 All Releases:** [View Releases](https://github.com/om-kumar-singh/PhotoJournal-App/releases)
