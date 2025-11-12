@@ -1,0 +1,94 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Netflix Dark Theme -->
+    <style name="Base.Theme.PhotoJournalApp.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/netflix_red</item>
+        <item name="colorPrimaryVariant">@color/netflix_red_dark</item>
+        <item name="colorOnPrimary">@color/netflix_white</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/netflix_dark_gray</item>
+        <item name="colorSurface">@color/netflix_dark_gray_secondary</item>
+        <item name="colorSurfaceVariant">@color/netflix_card_background</item>
+        <item name="colorOnSurface">@color/netflix_text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/netflix_text_secondary</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/netflix_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <!-- Navigation bar -->
+        <item name="android:navigationBarColor">@color/netflix_black</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        <!-- Window background -->
+        <item name="android:windowBackground">@color/netflix_dark_gray</item>
+        
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/netflix_text_primary</item>
+        <item name="android:textColorSecondary">@color/netflix_text_secondary</item>
+        
+        <!-- Outline color -->
+        <item name="colorOutline">@color/netflix_border</item>
+        
+        <!-- Card view -->
+        <item name="cardViewStyle">@style/CardView.Netflix.Dark</item>
+    </style>
+
+    <!-- Netflix Light Theme -->
+    <style name="Base.Theme.PhotoJournalApp.Light" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/netflix_red</item>
+        <item name="colorPrimaryVariant">@color/netflix_red_dark</item>
+        <item name="colorOnPrimary">@color/netflix_white</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/light_background</item>
+        <item name="colorSurface">@color/light_background_secondary</item>
+        <item name="colorSurfaceVariant">@color/light_card_background</item>
+        <item name="colorOnSurface">@color/light_text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/light_text_secondary</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/light_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        
+        <!-- Navigation bar -->
+        <item name="android:navigationBarColor">@color/light_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        
+        <!-- Window background -->
+        <item name="android:windowBackground">@color/light_background</item>
+        
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/light_text_primary</item>
+        <item name="android:textColorSecondary">@color/light_text_secondary</item>
+        
+        <!-- Outline color -->
+        <item name="colorOutline">@color/light_border</item>
+        
+        <!-- Card view -->
+        <item name="cardViewStyle">@style/CardView.Netflix.Light</item>
+    </style>
+
+    <!-- Default theme (will be set programmatically) -->
+    <style name="Theme.PhotoJournalApp" parent="Base.Theme.PhotoJournalApp.Dark" />
+    
+    <!-- Netflix Card Style - Dark -->
+    <style name="CardView.Netflix.Dark" parent="CardView">
+        <item name="cardBackgroundColor">@color/netflix_card_background</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/netflix_border</item>
+    </style>
+    
+    <!-- Netflix Card Style - Light -->
+    <style name="CardView.Netflix.Light" parent="CardView">
+        <item name="cardBackgroundColor">@color/light_card_background</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/light_border</item>
+    </style>
+</resources>

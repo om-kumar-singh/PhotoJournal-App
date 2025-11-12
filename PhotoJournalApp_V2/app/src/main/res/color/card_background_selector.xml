@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This will be handled programmatically via theme -->
+    <item android:color="@color/netflix_card_background" />
+</selector>
+

@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">PhotoJournal</string>
-    <string name="title_add">Add Entry</string>
-    <string name="title_detail">Details</string>
-    <string name="action_camera">Camera</string>
-    <string name="action_pick">Pick</string>
-    <string name="action_save">Save</string>
-    <string name="action_delete">Delete</string>
-</resources>
